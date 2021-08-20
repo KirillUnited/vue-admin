@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07ec8f50-3e46-4d21-aa32-6e3698b2f2c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e2aaV1maMojjuOn64IMoy7Tb2l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../travooo-laravel-backend" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\localhost\vue\admin\api" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ec8f50-3e46-4d21-aa32-6e3698b2f2c0" name="Default Changelist" comment="" />
+      <created>1593522204965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593522204965</updated>
+      <workItem from="1593522206170" duration="5197000" />
+      <workItem from="1593537979047" duration="3279000" />
+      <workItem from="1593628304394" duration="2820000" />
+      <workItem from="1594033780981" duration="15000" />
+      <workItem from="1594139663171" duration="6209000" />
+      <workItem from="1594147263018" duration="1912000" />
+      <workItem from="1594741170068" duration="5769000" />
+      <workItem from="1596263717302" duration="5654000" />
+      <workItem from="1596545723970" duration="1839000" />
+      <workItem from="1599731987939" duration="1419000" />
+      <workItem from="1603347269866" duration="669000" />
+      <workItem from="1603709215668" duration="1317000" />
+      <workItem from="1604763639479" duration="13000" />
+      <workItem from="1609150345221" duration="48000" />
+      <workItem from="1610816590602" duration="99000" />
+      <workItem from="1612953052820" duration="3354000" />
+      <workItem from="1614687388930" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1614687424722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614687424722" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1614687390368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614687390368" />
+  </component>
+</project>
